@@ -9,8 +9,8 @@
     --cor-de-fundo: black;
     --cor-de-cabeçalho: rgb(71, 71, 71);
     --cor-de-texto-principal: white;
-    --cor-menu: #16c398;
-    --cor-menu-itens: orange;
+    --cor-menu: #ffffff;
+    --cor-menu-itens: rgb(0, 0, 0);
     --fonte-principal: "Poppins";
     font-family: 'Poppins', sans-serif;
     --fonte-secundaria: "Josefin Sans";
@@ -29,10 +29,10 @@ h1 {
 }
 
 .logo{
-    width: 30%;
+    width: 50%;
 }
 
 .eu{
-    width: 20%;
-    border-radius: 80%;
+    width: 40%;
+    border-radius: 50%;
 }
